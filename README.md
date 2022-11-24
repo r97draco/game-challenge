@@ -2,7 +2,7 @@
 C# Library to find Winner in a poker game.
 
 ## Link to site
-(https://r97draco.github.io/game-challenge/)
+https://r97draco.github.io/game-challenge/
 
 ## OUT PUT 
 <br><br>![alt txt](output.png)<br>
