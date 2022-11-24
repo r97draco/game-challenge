@@ -20,5 +20,5 @@ C# Library to find Winner in a poker game.
 Create Players and assign their cards.<br/>
 Check flush. continue if no winner found.<br/>
 Check three of a kind? continue if no winner found<br/>
-Check One pain. continue if no winner found at last we check Hishest card and resolve the Ties.<br/>
+Check One pair. continue if no winner found at last we check Hishest card and resolve the Ties.<br/>
 
