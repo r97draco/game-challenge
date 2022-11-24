@@ -19,6 +19,6 @@ C# Library to find Winner in a poker game.
 ## Basic Gist of the Algorithm :-
 Create Players and assign their cards.<br/>
 Check flush. continue if no winner found.<br/>
-check three of a kind? continue if no winner found<br/>
-check One pain. continue if no winner found at last we check Hishest card and resolve the Ties.<br/>
+Check three of a kind? continue if no winner found<br/>
+Check One pain. continue if no winner found at last we check Hishest card and resolve the Ties.<br/>
 
